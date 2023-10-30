@@ -1,0 +1,15 @@
+.text-center{
+    text-align: center;
+    color: green
+}
+.container{
+    text-align: center;
+    
+}
+.row input{
+    margin: 0;
+    font-size: 28px;
+    padding: 10px 10px;
+    border: 2px solid black;
+    border-radius: 8px;
+}
